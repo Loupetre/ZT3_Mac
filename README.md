@@ -18,7 +18,7 @@ Copy the folder containing missing openocd files in the directory of your choice
 The openocd folder can be found here : https://github.com/scooterteam/scooterflasher
 
 # Installation :
-Just copy the binary and all the .sh files in the same folder on your Mac.
+Just copy the binary and all the .sh files in the same folder (i.e. installation folder) on your Mac.
 
 # Using zt3tool :
 Start a terminal windows on your Mac and go to the installation folder
